@@ -67,7 +67,7 @@
     </nav>
 
     <div class="container mt-4 text-center">
-        <h2>Selamat Datang di --luis Pernando 2301040004-- Group</h2>
+        <h2>Selamat Datang di --Luis Pernando 2301040004-- Group</h2>
     </div>
 
     <div class="container mt-3">
