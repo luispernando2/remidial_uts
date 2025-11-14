@@ -79,7 +79,7 @@
                 <div class="row g-0 h-100">
                     <!-- Gambar Kiri -->
                     <div class="col-md-6 h-100">
-                        <img src="{{ asset('images/jerry.jpg') }}" class="img-fit" alt="">
+                        <img src="{{ asset('images/sswaroeng.jpg') }}" class="img-fit" alt="">
                     </div>
 
                     <!-- Teks Kanan -->
@@ -128,7 +128,7 @@
 
                     <!-- Gambar kanan -->
                     <div class="col-md-6 h-100">
-                        <img src="{{ asset('images/tom.png') }}" class="img-fit" alt="">
+                        <img src="{{ asset('images/satepakpong.jpg') }}" class="img-fit" alt="">
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
 
                     <!-- Gambar kanan -->
                     <div class="col-md-6 h-100">
-                        <img src="{{ asset('images/tom.png') }}" class="img-fit" alt="">
+                        <img src="{{ asset('images/gudeg.jpg') }}" class="img-fit" alt="">
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@
 
                     <!-- Gambar kiri -->
                     <div class="col-md-6 h-100">
-                        <img src="{{ asset('images/jerry.jpg') }}" class="img-fit" alt="">
+                        <img src="{{ asset('images/sushi.jpg') }}" class="img-fit" alt="">
                     </div>
 
                     <!-- Teks kanan -->
